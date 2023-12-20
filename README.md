@@ -1,2 +1,2 @@
 # myportfolio
-repositoyry where I have my portfolio
+repositoy where I have my portfolio
