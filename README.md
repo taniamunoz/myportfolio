@@ -1,2 +1,2 @@
 # myportfolio
-repositoyry where I have my portfolio
+repository where I keep my project portfolio.
